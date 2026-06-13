@@ -19,6 +19,8 @@
 
 💳 **[700creditclubexperts](https://github.com/tradersurfer/700creditclubexperts)** — AI-powered credit literacy platform with a 48-hour audit engine, automated dispute workflow, 30-day follow-up sequence, and Skool community layer. Built for the 79% of Americans with errors on their credit report.
 
+🤖 **[700creditclub-bot](https://github.com/tradersurfer/700creditclub-bot)** *(private)* — Three AI systems, one Railway deployment: **Slack content bot** (drafts → Claude → polished posts), @700CreditAI **Skool community bot** (3× daily, 16-topic rotating library), and **JECI AI Dispute Agent *(Agent Nova)*** (polls CRC every 4 hours → FCRA/FDCPA rules engine → Claude-generated dispute letters → #dispute-alerts). v3.0 · 33 deployments.
+
 🤖 **[jeci-ap-ar-agent](https://github.com/tradersurfer/jeci-ap-ar-agent)** — Production AP/AR automation SaaS agent at $299/mo. Invoice intake, reconciliation, aging reports, and client-facing summaries — zero manual entry.
 
 ₿ **[bitcoin-node-kit](https://github.com/tradersurfer/bitcoin-node-kit)** — Pruned Bitcoin full node setup guide and config, optimized for resource-constrained Windows hardware. Precursor to a multi-node + Layer 2 (Elements/Liquid) build stack.
@@ -43,6 +45,7 @@
 
 ### Credit & Fintech
 - 💳 [700creditclubexperts](https://github.com/tradersurfer/700creditclubexperts) — Platform: AI credit audit ($97), dispute workflow automation, built-in ManyChat AUDIT trigger, Skool onboarding
+- 🤖 [700creditclub-bot](https://github.com/tradersurfer/700creditclub-bot) *(private)* — Three AI systems, one Railway deployment (v3.0 · 33+ deployments).
 - 🤖 [agent-nova](https://github.com/tradersurfer/agent-nova) — AI credit repair agent integrated with Credit Repair Cloud and Go High Level
 - 🔎 [credit-audit-engine](https://github.com/tradersurfer/credit-audit-engine) — 48-hour report analysis: error identification, bureau targeting, dispute letter generation, 30-day follow-up
 
