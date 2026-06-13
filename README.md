@@ -17,7 +17,7 @@
 
 🏦 **[jeci-trading-suite](https://github.com/tradersurfer/jeci-trading-suite)** — Fully automated options trading system. Tri-tier account architecture (TraderSurfer · Robyhood · Family HODL), tri-agent consensus network (Grok/Claude/Gemini — 3/3 vote required before any live order routes), and a hardcoded Master Risk Moat. Railway-deployed, Tastytrade-native.
 
-💳 **[700-credit-club](https://github.com/tradersurfer/700-credit-club)** — AI-powered credit literacy platform with a 48-hour audit engine, automated dispute workflow, 30-day follow-up sequence, and Skool community layer. Built for the 79% of Americans with errors on their credit report.
+💳 **[700creditclubexperts](https://github.com/tradersurfer/700creditclubexperts)** — AI-powered credit literacy platform with a 48-hour audit engine, automated dispute workflow, 30-day follow-up sequence, and Skool community layer. Built for the 79% of Americans with errors on their credit report.
 
 🤖 **[jeci-ap-ar-agent](https://github.com/tradersurfer/jeci-ap-ar-agent)** — Production AP/AR automation SaaS agent at $299/mo. Invoice intake, reconciliation, aging reports, and client-facing summaries — zero manual entry.
 
@@ -42,7 +42,7 @@
 - 🌐 [jeci-saas-landing](https://github.com/tradersurfer/jeci-saas-landing) — React + Netlify SaaS landing page: three pricing tiers, Stripe Checkout, Netlify serverless webhook handlers
 
 ### Credit & Fintech
-- 💳 [700-credit-club](https://github.com/tradersurfer/700-credit-club) — Platform: AI credit audit ($97), dispute workflow automation, built-in ManyChat AUDIT trigger, Skool onboarding
+- 💳 [700creditclubexperts](https://github.com/tradersurfer/700creditclubexperts) — Platform: AI credit audit ($97), dispute workflow automation, built-in ManyChat AUDIT trigger, Skool onboarding
 - 🤖 [agent-nova](https://github.com/tradersurfer/agent-nova) — AI credit repair agent integrated with Credit Repair Cloud and Go High Level
 - 🔎 [credit-audit-engine](https://github.com/tradersurfer/credit-audit-engine) — 48-hour report analysis: error identification, bureau targeting, dispute letter generation, 30-day follow-up
 
