@@ -19,8 +19,12 @@
 
 💳 **[700creditclubexperts](https://github.com/tradersurfer/700creditclubexperts)** — AI-powered credit literacy platform with a 48-hour audit engine, automated dispute workflow, 30-day follow-up sequence, and Skool community layer. Built for the 79% of Americans with errors on their credit report.
 
+🔎 **[jeci-dispute-agent](https://github.com/tradersurfer/jeci-dispute-agent)** — Standalone AI dispute letter SaaS. Upload a credit report PDF, receive a ZIP of FCRA/FDCPA-compliant letters — one per bureau per item per round. Next.js · Stripe · Supabase · Claude · Railway.
+ 
 🤖 **[700creditclub-bot](https://github.com/tradersurfer/700creditclub-bot)** *(private)* — Three AI systems, one Railway deployment: **Slack content bot** (drafts → Claude → polished posts), @700CreditAI **Skool community bot** (3× daily, 16-topic rotating library), and **JECI AI Dispute Agent *(Agent Nova)*** (polls CRC every 4 hours → FCRA/FDCPA rules engine → Claude-generated dispute letters → #dispute-alerts). v3.0 · 33 deployments.
 
+📰 **[news-fetcher-bot](https://github.com/tradersurfer/news-fetcher-bot)** — White-label AI news aggregation and publishing bot. Connects to 8+ live data sources (Bitcoin on-chain, ETF flows, crypto news, earnings, RSS), runs an AI agent to filter and frame content, and posts to X on a configurable schedule. Python core + full Mastra TypeScript stack.
+ 
 🤖 **[jeci-ap-ar-agent](https://github.com/tradersurfer/jeci-ap-ar-agent)** — Production AP/AR automation SaaS agent at $299/mo. Invoice intake, reconciliation, aging reports, and client-facing summaries — zero manual entry.
 
 ₿ **[bitcoin-node-kit](https://github.com/tradersurfer/bitcoin-node-kit)** — Pruned Bitcoin full node setup guide and config, optimized for resource-constrained Windows hardware. Precursor to a multi-node + Layer 2 (Elements/Liquid) build stack.
@@ -40,29 +44,33 @@
 
 ### JECI AI Agent Suite
 - 🤖 [jeci-ap-ar-agent](https://github.com/tradersurfer/jeci-ap-ar-agent) — AP/AR automation agent; Go High Level + Stripe backend; $299/mo SaaS
+- 📈 [revenue-forecaster-agent](https://github.com/tradersurfer/revenue-forecaster-agent) — Revenue forecasting sub-agent: 3-scenario projections (conservative/base/aggressive), AI assumption commentary, exportable reports · in active development
+- 📰 [news-fetcher-bot](https://github.com/tradersurfer/news-fetcher-bot) — White-label AI news bot: 8+ data sources, configurable brand voice, AI model selection, X publishing · Python + Mastra
 - 📄 [pagone-resume-agency](https://github.com/tradersurfer/pagone-resume-agency) — AI resume service: intake form → template selection → agent build → delivery. JECI marketplace listing.
 - 🌐 [jeci-saas-landing](https://github.com/tradersurfer/jeci-saas-landing) — React + Netlify SaaS landing page: three pricing tiers, Stripe Checkout, Netlify serverless webhook handlers
 
 ### Credit & Fintech
 - 💳 [700creditclubexperts](https://github.com/tradersurfer/700creditclubexperts) — Platform: AI credit audit ($97), dispute workflow automation, built-in ManyChat AUDIT trigger, Skool onboarding
-- 🤖 [700creditclub-bot](https://github.com/tradersurfer/700creditclub-bot) *(private)* — Three AI systems, one Railway deployment (v3.0 · 33+ deployments).
+- 🤖 [700creditclub-bot](https://github.com/tradersurfer/700creditclub-bot) *(private)* — Three AI systems, one Railway deployment (v3.0 · 33+ deployments)
+- 🔎 [jeci-dispute-agent](https://github.com/tradersurfer/jeci-dispute-agent) — Standalone dispute SaaS: PDF parser → strategy engine → Claude letters → ZIP download · Next.js · Stripe · Supabase
 - 🤖 [agent-nova](https://github.com/tradersurfer/agent-nova) — AI credit repair agent integrated with Credit Repair Cloud and Go High Level
 - 🔎 [credit-audit-engine](https://github.com/tradersurfer/credit-audit-engine) — 48-hour report analysis: error identification, bureau targeting, dispute letter generation, 30-day follow-up
 
 ### Bitcoin & Sovereignty Layer
 - ₿ [bitcoin-node-kit](https://github.com/tradersurfer/bitcoin-node-kit) — Full node setup guide for Windows: `dbcache`, `prune`, `maxmempool` configs, SmartScreen bypass, step-by-step sync
-- 🏛️ [real-estate-dao](https://github.com/tradersurfer/real-estate-dao) — Real Estate DAO architecture on Bitcoin Layer 2 (Elements/Liquid) — structure and smart contract design in progress
-- 👨‍👩‍👧 [family-hodl](https://github.com/tradersurfer/family-hodl) — Generational BTC accumulation tracker: tier rules, milestone logging, permanently no-options policy
+- 📊 [financial-statements-dashboard] (sample at: ([https://jecigroup.com/tools/financial-model]) — Three-tab operating model: Assumptions, Revenue Build, Cash Flow · installable tool for entrepreneurs *(Building standalone SaaS)*
+- 🏛️ [real-estate-dao](https://github.com/tradersurfer/real-estate-dao) — Real Estate DAO architecture on Bitcoin Layer 2 (Elements/Liquid) — structure and smart contract design in progress *(Building standalone SaaS)*
+- 👨‍👩‍👧 [family-hodl](https://github.com/tradersurfer/family-hodl) — Generational BTC accumulation tracker: tier rules, milestone logging, permanently no-options policy *(Building standalone SaaS)*
 
 ### Wealth Architecture
-- 📐 [100-year-flp](https://github.com/tradersurfer/100-year-flp) — 100-Year Family Elevation Plan: FLP/dynasty trust structure, six-member equity ladder, business subsidiary framework
-- 📊 [jeci-pnl-model](https://github.com/tradersurfer/jeci-pnl-model) — Three-tab operating P&L (FY Jul 2026–Jun 2027): Assumptions, Revenue Build, Cash Flow — multi-venture operator template
+- 📐 [100-year-flp](https://github.com/tradersurfer/100-year-flp) — 100-Year Family Elevation Plan: FLP/dynasty trust structure, six-member equity ladder, business subsidiary framework *(Building standalone SaaS)*
+- 📊 [jeci-pnl-model](https://github.com/tradersurfer/jeci-pnl-model) — Three-tab operating P&L (FY Jul 2026–Jun 2027): Assumptions, Revenue Build, Cash Flow — multi-venture operator template *(Building standalone SaaS)*
 
 
 ### Utilities & Scripts
-- 📧 [gmail-filter-nuke](https://github.com/tradersurfer/gmail-filter-nuke) — Bulk inbox noise elimination: sender frequency analysis + automated Gmail filter generation
-- 🧠 [deepseek-multi-turn](https://github.com/tradersurfer/deepseek-multi-turn) — Multi-turn conversation pattern with extended thinking via DeepSeek API (Python + OpenAI SDK)
-- 📱 [financial-sovereignty-scripts](https://github.com/tradersurfer/financial-sovereignty-scripts) — Content tools: acquisition breakdown templates, TA watchlist scripts, Reels/TikTok scripting helpers
+- 📧 [gmail-filter-nuke](https://github.com/tradersurfer/gmail-filter-nuke) — Bulk inbox noise elimination: sender frequency analysis + automated Gmail filter generation *(Building standalone SaaS)*
+- 🧠 [deepseek-multi-turn](https://github.com/tradersurfer/deepseek-multi-turn) — Multi-turn conversation pattern with extended thinking via DeepSeek API (Python + OpenAI SDK) *(Building standalone SaaS)*
+- 📱 [financial-sovereignty-scripts](https://github.com/tradersurfer/financial-sovereignty-scripts) — Content tools: acquisition breakdown templates, TA watchlist scripts, Reels/TikTok scripting helpers *(Building standalone SaaS)*
 
 ---
 
@@ -78,6 +86,8 @@
 ## What I'm Building
 
 **Real automated financial systems** — not threads about building them. Every repo here is either live in production, in active development, or one deployment away from being live. The JECI stack spans trading bots, credit automation, AP/AR agents, and Bitcoin infrastructure — all connected under a single multi-venture operating model.
+
+The goal: an **Agent Marketplace** where entrepreneurs search for what they need — a payroll agent, a trading bot, a front desk receptionist — and get clean categories, agent specs, and transparent pricing. Apple App Store for AI agents. Every repo here is a future marketplace listing.
 
 The 100-Year FLP isn't a metaphor. It's a legal + financial architecture I'm building for my family the same way you'd build software: iteratively, with version control, and a 100-year runway.
 
