@@ -1,75 +1,158 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/JECI%20OS-Apple%20App%20Store%20for%20AI%20Businesses-1B365D?style=for-the-badge" alt="JECI OS">
+</p>
+
 # Hi, I'm Adrian 👋
 
-📍 Washington, DC &nbsp;|&nbsp; 🏗️ Financial Systems Architect &nbsp;|&nbsp; 🤖 AI Automation Builder &nbsp;|&nbsp; 🚀 Founder, JECI Group
+<p align="center">
+  🏗️ Financial Systems Architect &nbsp;|&nbsp; 🤖 AI Automation Builder &nbsp;|&nbsp; 🚀 Founder, JECI Group
+</p>
 
-> Building the infrastructure behind financial sovereignty — not just content about it.
+<p align="center">
+  <i>Building the infrastructure behind financial sovereignty — not just content about it.</i>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tradersurfer&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS" alt="Profile views">
+</p>
+
+---
+
+## 🏪 The Flagship — JECI OS
+
+**Most AI agents are tools developers install. JECI OS is the platform that turns AI agents into businesses anyone can install.**
+
+At the center is **Agent JECI** — the Chief Intelligence & Orchestration Agent. It's not a chatbot; it's an autonomous Chief of Staff that routes work, holds organizational memory, and coordinates a network of specialized agents across credit, finance, content, and trading.
+
+**BIB Marketplace** is the consumer-facing product that makes those agent teams installable by anyone — browse by category, preview the departments and AI employees who run them, click install, open a workspace. Apple App Store, but the apps are full businesses.
+
+```
+                    ┌──────────────────────┐
+                    │       JECI OS         │
+                    │   (platform layer)    │
+                    └──────────┬───────────┘
+                               │
+              ┌────────────────┴────────────────┐
+              ▼                                  ▼
+     ┌───────────────────┐            ┌───────────────────────┐
+     │     Agent JECI      │            │    BIB Marketplace     │
+     │ Orchestration core  │ ─powers──▶ │  Storefront · Install  │
+     │ Routes & coordinates │            │  · Workspace UI        │
+     └───────────────────┘            └───────────────────────┘
+              │
+   ┌──────────┴───────────┬──────────────┬───────────────┐
+   ▼                       ▼              ▼               ▼
+Credit CluBot      Revenue Forecaster   Financial Stmts   (future agents)
+ (Agent Nova)         (in dev)             Agent
+```
+
+| Project | What it is | Access |
+|---|---|---|
+| **Agent JECI** | Chief Intelligence & Orchestration — the brain coordinating every specialized agent below | 🔒 Private |
+| **BIB Marketplace** | Business-in-a-Box storefront — browse, install, and run a fully-staffed AI business | 🔒 Private |
+
+Every other repo on this profile is either a standalone product **or** a future installable listing inside this marketplace.
 
 ---
 
 ## Start Here
 
-🏦 **[jeci-trading-suite](https://github.com/tradersurfer/jeci-trading-suite)** — Fully automated options trading system. Tri-tier account architecture (TraderSurfer · Robyhood · Family HODL), tri-agent consensus network (Grok/Claude/Gemini — 3/3 vote required before any live order routes), and a hardcoded Master Risk Moat. Railway-deployed, Tastytrade-native.
-
-💳 **[700creditclubexperts](https://github.com/tradersurfer/700creditclubexperts)** — Full-stack credit restoration SaaS. 13 pages, JWT auth, Stripe billing, 8-email automated sequence, Credit Repair Cloud integration, affiliate portal, and client portal. Built for the 79% of Americans with errors on their credit report.
-
-🔎 **[jeci-dispute-agent](https://github.com/tradersurfer/jeci-dispute-agent)** — Standalone AI dispute letter SaaS. Upload a credit report PDF, receive a ZIP of FCRA/FDCPA-compliant letters — one per bureau per item per round. Next.js · Stripe · Supabase · Claude · Railway.
-
-🤖 **[700creditclub-bot](https://github.com/tradersurfer/700creditclub-bot)** *(private)* — Three AI systems, one Railway deployment: **Slack content bot** (drafts → Claude → polished posts), **@700CreditAI Skool community bot** (3× daily, 16-topic rotating library), and **JECI AI Dispute Agent *(Agent Nova)*** (polls CRC every 4 hours → FCRA/FDCPA rules engine → Claude-generated letters → #dispute-alerts). v3.0 · 33 deployments.
-
-📊 **[financial-statements-dashboard](https://github.com/tradersurfer/financial-statements-dashboard)** — Assumptions-driven financial modeling tool. P&L, cash flow, 3-scenario analysis, and Claude CFO commentary in a single installable web app. React + TypeScript + Recharts + Express · Railway-ready · white-labelable. Live: [jecigroup.com/tools/financial-model](https://jecigroup.com/tools/financial-model)
-
-📰 **[news-fetcher-bot](https://github.com/tradersurfer/news-fetcher-bot)** — White-label AI news aggregation and publishing bot. Connects to 8+ live data sources (Bitcoin on-chain, ETF flows, crypto news, earnings, RSS), runs an AI agent to filter and frame content, and posts to X on a configurable schedule. Python core + full Mastra TypeScript stack.
+| Project | What it does |
+|---|---|
+| 🏦 [**jeci-trading-suite**](https://github.com/tradersurfer/jeci-trading-suite) | Fully automated options trading system. Tri-tier accounts (TraderSurfer · Robyhood · Family HODL), tri-agent consensus network (Grok/Claude/Gemini — 3/3 vote required), hardcoded Master Risk Moat. Railway · Tastytrade-native. |
+| 💳 [**700creditclubexperts**](https://github.com/tradersurfer/700creditclubexperts) | Full-stack credit restoration SaaS. 13 pages, JWT auth, Stripe billing, 8-email automated sequence, Credit Repair Cloud integration, affiliate + client portals. |
+| 🔎 [**jeci-dispute-agent**](https://github.com/tradersurfer/jeci-dispute-agent) | Standalone AI dispute letter SaaS. Upload a credit report PDF → ZIP of FCRA/FDCPA letters, one per bureau per item per round. Next.js · Stripe · Supabase · Claude. |
+| 🤖 [**700creditclub-bot**](https://github.com/tradersurfer/700creditclub-bot) *(private)* | Three AI systems, one Railway deployment: Slack content bot, @700CreditAI Skool bot, JECI AI Dispute Agent *(Agent Nova)*. v3.0 · 33 deployments. |
+| 📊 [**financial-statements-dashboard**](https://github.com/tradersurfer/financial-statements-dashboard) | Assumptions-driven modeling tool. P&L, cash flow, 3-scenario analysis, Claude CFO commentary. React + Express · Railway · white-labelable. [Live demo →](https://jecigroup.com/tools/financial-model) |
+| 📰 [**news-fetcher-bot**](https://github.com/tradersurfer/news-fetcher-bot) | White-label AI news bot. 8+ live data sources, AI filtering, scheduled X publishing. Python core + Mastra TypeScript stack. |
 
 ---
 
 ## Current Projects
 
+🟢 Active &nbsp;·&nbsp; 🟡 In development &nbsp;·&nbsp; ⚪ Planned &nbsp;·&nbsp; 🔒 Private
+
 ### JECI Trading Infrastructure
-- 🏦 [jeci-trading-suite](https://github.com/tradersurfer/jeci-trading-suite) — Automated options system: tri-tier accounts, Tastytrade execution, Railway deployment
-- 📊 jeci-signal-dashboard *(in development)* — Live React dashboard: SPY state banner, consensus strip, tier tables, integrated AI chat panel
-- 🧠 tri-agent-consensus *(in development)* — Grok (sentiment) / Claude (technical bias) / Gemini (Chief Risk Officer) voting network
-- 🛡️ master-risk-moat *(in development)* — Hardcoded guardrails: premium caps, RSI lockouts, DTE floors, re-entry blocklist. LLMs never touch this layer.
-- 🌊 market-state-engine *(in development)* — Programmatic intraday regime detector: BULL_TRAP / WATERFALL / V_BOTTOM on SPY 15m data
+
+| Project | Description | Status |
+|---|---|---|
+| [jeci-trading-suite](https://github.com/tradersurfer/jeci-trading-suite) | Tri-tier accounts, Tastytrade execution, Railway deployment | 🟢 |
+| jeci-signal-dashboard | Live React dashboard: SPY state banner, consensus strip, AI chat panel | 🟡 |
+| tri-agent-consensus | Grok (sentiment) / Claude (technical) / Gemini (risk) voting network | 🟡 |
+| master-risk-moat | Hardcoded guardrails — premium caps, RSI lockouts, DTE floors. LLMs never touch this layer. | 🟡 |
+| market-state-engine | Intraday regime detector: BULL_TRAP / WATERFALL / V_BOTTOM on SPY 15m data | 🟡 |
 
 ### JECI AI Agent Suite
-- 🤖 [jeci-ap-ar-agent](https://github.com/tradersurfer/jeci-ap-ar-agent) — AP/AR automation agent; Go High Level + Stripe backend; $299/mo · in active development
-- 📈 [revenue-forecaster-agent](https://github.com/tradersurfer/revenue-forecaster-agent) — Revenue forecasting sub-agent: 3-scenario projections (conservative/base/aggressive), AI assumption commentary, exportable reports · in active development
-- 📰 [news-fetcher-bot](https://github.com/tradersurfer/news-fetcher-bot) — White-label AI news bot: 8+ data sources, configurable brand voice, AI model selection, X publishing · Python + Mastra
-- 📄 [pagone-resume-agency](https://github.com/tradersurfer/pagone-resume-agency) — AI resume service: intake form → template selection → agent build → delivery. JECI marketplace listing.
-- 🌐 jeci-saas-landing *(in development)* — React + Netlify SaaS landing page: three pricing tiers, Stripe Checkout, serverless webhook handlers
+
+| Project | Description | Status |
+|---|---|---|
+| [jeci-ap-ar-agent](https://github.com/tradersurfer/jeci-ap-ar-agent) | AP/AR automation; GHL + Stripe backend; $299/mo | 🟡 |
+| [revenue-forecaster-agent](https://github.com/tradersurfer/revenue-forecaster-agent) | 3-scenario revenue projections, AI assumption commentary | 🟡 |
+| [news-fetcher-bot](https://github.com/tradersurfer/news-fetcher-bot) | White-label news bot: 8+ sources, configurable brand voice | 🟢 |
+| [pagone-resume-agency](https://github.com/tradersurfer/pagone-resume-agency) | AI resume service: intake → template → build → delivery | 🟢 |
+| jeci-saas-landing | React + Netlify landing page: 3 pricing tiers, Stripe Checkout | 🟡 |
 
 ### Credit & Fintech
-- 💳 [700creditclubexperts](https://github.com/tradersurfer/700creditclubexperts) — Platform: AI credit audit ($97), dispute workflow automation, ManyChat AUDIT trigger, Skool onboarding
-- 🤖 [700creditclub-bot](https://github.com/tradersurfer/700creditclub-bot) *(private)* — Three AI systems, one Railway deployment · v3.0 · 33+ deployments
-- 🔎 [jeci-dispute-agent](https://github.com/tradersurfer/jeci-dispute-agent) — Standalone dispute SaaS: PDF parser → strategy engine → Claude letters → ZIP download · Next.js · Stripe · Supabase
+
+| Project | Description | Status |
+|---|---|---|
+| [700creditclubexperts](https://github.com/tradersurfer/700creditclubexperts) | AI credit audit, dispute automation, ManyChat trigger, Skool onboarding | 🟢 |
+| [700creditclub-bot](https://github.com/tradersurfer/700creditclub-bot) | Slack + Skool + dispute agent, one Railway deployment | 🟢🔒 |
+| [jeci-dispute-agent](https://github.com/tradersurfer/jeci-dispute-agent) | Standalone dispute SaaS: PDF parser → Claude letters → ZIP | 🟢 |
 
 ### Financial Tools
-- 📊 [financial-statements-dashboard](https://github.com/tradersurfer/financial-statements-dashboard) — Installable P&L + cash flow modeling tool: 5 tabs, 3 scenarios, Claude CFO analysis, CSV export · React + Railway · white-labelable
-- 📈 [revenue-forecaster-agent](https://github.com/tradersurfer/revenue-forecaster-agent) — AI revenue projection sub-agent: conservative/base/aggressive scenarios, assumption validator, PDF/CSV export
-- 🤖 [jeci-ap-ar-agent](https://github.com/tradersurfer/jeci-ap-ar-agent) — AP/AR automation: invoice ingestion, reconciliation, aging reports, GHL follow-up sequences · $299/mo
+
+| Project | Description | Status |
+|---|---|---|
+| [financial-statements-dashboard](https://github.com/tradersurfer/financial-statements-dashboard) | P&L + cash flow modeling: 5 tabs, 3 scenarios, Claude CFO analysis | 🟢 |
+| [revenue-forecaster-agent](https://github.com/tradersurfer/revenue-forecaster-agent) | AI revenue projection sub-agent, PDF/CSV export | 🟡 |
+| [jeci-ap-ar-agent](https://github.com/tradersurfer/jeci-ap-ar-agent) | Invoice ingestion, reconciliation, aging reports | 🟡 |
 
 ### Bitcoin & Sovereignty Layer
-- 📡 [bitcoin-archive-automation](https://github.com/tradersurfer/bitcoin-archive-automation) — Bitcoin Archive X automation: on-chain data, ETF flows, market updates posted on schedule · Python/Tweepy
-- ₿ bitcoin-node-kit *(in development)* — Pruned full node setup guide for Windows: `dbcache`, `prune`, `maxmempool` configs, SmartScreen bypass, step-by-step sync
-- 🏛️ real-estate-dao *(in development)* — Real Estate DAO on Bitcoin Layer 2 (Elements/Liquid) — architecture in progress
-- 👨‍👩‍👧 family-hodl *(in development)* — Generational BTC accumulation tracker: tier rules, milestone logging, permanently no-options policy
+
+| Project | Description | Status |
+|---|---|---|
+| [bitcoin-archive-automation](https://github.com/tradersurfer/bitcoin-archive-automation) | Bitcoin Archive X automation — on-chain data, ETF flows | 🟢 |
+| bitcoin-node-kit | Pruned full node setup for Windows — `dbcache`, `prune`, `maxmempool` | 🟡 |
+| real-estate-dao | Real Estate DAO on Bitcoin Layer 2 (Elements/Liquid) | 🟡 |
+| family-hodl | Generational BTC tracker — permanently no-options policy | 🟡 |
 
 ### Content & Sports
-- 🏆 [twizzypickz](https://github.com/tradersurfer/twizzypickz) — Multi-analyst sports picks platform: NBA, NCAAM, NFL, MLB, NHL · per-analyst profiles, combined daily cards, BetSlip · React + Vite + Netlify
+
+| Project | Description | Status |
+|---|---|---|
+| [twizzypickz](https://github.com/tradersurfer/twizzypickz) | Multi-analyst sports picks: NBA, NCAAM, NFL, MLB, NHL · BetSlip | 🟢 |
 
 ### Wealth Architecture
-- 📐 100-year-flp *(in development)* — 100-Year Family Elevation Plan: FLP/dynasty trust structure, six-member equity ladder, business subsidiary framework
+
+| Project | Description | Status |
+|---|---|---|
+| 100-year-flp | FLP/dynasty trust structure — six-member equity ladder | 🟡 |
 
 ### Utilities & Scripts
-- 🧠 [deepseek-multi-turn](https://github.com/tradersurfer/deepseek-multi-turn) *(in development)* — Multi-turn conversation pattern with extended thinking via DeepSeek API · Python + OpenAI SDK
-- 📱 financial-sovereignty-scripts *(in development)* — Content tools: acquisition breakdown templates, TA watchlist scripts, Reels/TikTok scripting helpers
+
+| Project | Description | Status |
+|---|---|---|
+| [deepseek-multi-turn](https://github.com/tradersurfer/deepseek-multi-turn) | Multi-turn DeepSeek-R1 conversations with extended thinking trace | 🟢 |
+| financial-sovereignty-scripts | Acquisition breakdowns, TA watchlists, Reels/TikTok scripting helpers | 🟡 |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tradersurfer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adrian's GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tradersurfer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
+</p>
 
 ---
 
@@ -77,7 +160,7 @@
 
 **Real automated financial systems** — not threads about building them. Every repo here is either live in production, in active development, or one deployment away from being live. The JECI stack spans trading bots, credit automation, AP/AR agents, dispute SaaS, and Bitcoin infrastructure — all connected under a single multi-venture operating model.
 
-The goal: an **Agent Marketplace** where entrepreneurs search for what they need — a payroll agent, a trading bot, a front desk receptionist — and get clean categories, agent specs, and transparent pricing. Apple App Store for AI agents. Every repo here is a future marketplace listing.
+**The endgame is JECI OS.** Agent JECI orchestrates. BIB Marketplace distributes. Every specialized agent — credit, finance, content, trading — is built twice: once to work inside the system, and once to stand alone as something a stranger can install. Apple made an app store. This is a business store.
 
 The 100-Year FLP isn't a metaphor. It's a legal + financial architecture I'm building for my family the same way you'd build software: iteratively, with version control, and a 100-year runway.
 
