@@ -5,7 +5,7 @@
 # Hi, I'm Adrian 👋
 
 <p align="center">
-  🏗️ Financial Systems Architect &nbsp;|&nbsp; 🤖 AI Automation Builder &nbsp;|&nbsp; 🚀 Founder, JECI Group
+  🏗️ Financial Systems Architect &nbsp;|&nbsp; 🤖 AI Automation Builder &nbsp;|&nbsp; 🚀 Founder, JECI Group & JECI AI
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
@@ -64,11 +65,35 @@ Every other repo on this profile is either a standalone product **or** a future 
 
 ---
 
+### BIB Marketplace — Live Screenshots
+
+![BIB Marketplace Homepage](screenshots/bib-home.png)
+*"Your next business is already built." — homepage hero with workspace preview*
+
+![Browse by Industry](screenshots/bib-industries.png)
+*Industry category grid — Front Desk, Credit & Finance, Marketing, Construction, Real Estate and more*
+
+![Marketplace Browse](screenshots/bib-browse.png)
+*11 businesses · 70 departments · 100 employees — ready to install*
+
+![My Businesses Dashboard](screenshots/bib-my-businesses.png)
+*Installed business portfolio — department and employee summary, system health, recent activity*
+
+---
+
+## How It Works
+
+**Orchestrator pattern:** Agent JECI is an LLM-driven evaluation loop. It reads incoming work, identifies the domain, delegates to the agent built for that domain, reviews the output, and routes the result — no manual handoffs. The agents underneath (credit disputes, revenue forecasting, financial modeling, trading) each run independently and report back up.
+
+**Marketplace model:** Builders list "Offices" on BIB Marketplace — a fully-staffed AI business with named agents per department. Users browse by category, preview the team, install, and walk into a running workspace. Every repo on this profile is a future listing inside that marketplace.
+
+---
+
 ## Start Here
 
 | Project | What it does |
 |---|---|
-| 🏦 [**jeci-trading-suite**](https://github.com/tradersurfer/jeci-trading-suite) | Fully automated options trading system. Tri-tier accounts (TraderSurfer · Robyhood · Family HODL), tri-agent consensus network (Grok/Claude/Gemini — 3/3 vote required), hardcoded Master Risk Moat. Railway · Tastytrade-native. |
+| ⚡ [**LEVI**](https://github.com/tradersurfer/jeci-trading-suite) *(private)* | Options intelligence platform. Market state → Risk Moat → SCOUT/ATLAS/LENS/TRACE → Grok/Claude/DeepSeek R1 consensus (3/3 unanimous) → execution. Pre-v1, intentionally. |
 | 💳 [**700creditclubexperts**](https://github.com/tradersurfer/700creditclubexperts) | Full-stack credit restoration SaaS. 13 pages, JWT auth, Stripe billing, 8-email automated sequence, Credit Repair Cloud integration, affiliate + client portals. |
 | 🔎 [**jeci-dispute-agent**](https://github.com/tradersurfer/jeci-dispute-agent) | Standalone AI dispute letter SaaS. Upload a credit report PDF → ZIP of FCRA/FDCPA letters, one per bureau per item per round. Next.js · Stripe · Supabase · Claude. |
 | 🤖 [**700creditclub-bot**](https://github.com/tradersurfer/700creditclub-bot) *(private)* | Three AI systems, one Railway deployment: Slack content bot, @700CreditAI Skool bot, JECI AI Dispute Agent *(Agent Nova)*. v3.0 · 33 deployments. |
@@ -85,9 +110,9 @@ Every other repo on this profile is either a standalone product **or** a future 
 
 | Project | Description | Status |
 |---|---|---|
-| [jeci-trading-suite](https://github.com/tradersurfer/jeci-trading-suite) | Tri-tier accounts, Tastytrade execution, Railway deployment | 🟢 |
+| LEVI *(private)* | Options intelligence: Market State → Risk Moat → SCOUT/ATLAS/LENS/TRACE → 3-agent consensus | 🟡🔒 |
+| [jeci-trading-suite](https://github.com/tradersurfer/jeci-trading-suite) | Tri-tier accounts, Tastytrade execution, Railway deployment — v1 foundation for LEVI | 🟢 |
 | jeci-signal-dashboard | Live React dashboard: SPY state banner, consensus strip, AI chat panel | 🟡 |
-| tri-agent-consensus | Grok (sentiment) / Claude (technical) / Gemini (risk) voting network | 🟡 |
 | master-risk-moat | Hardcoded guardrails — premium caps, RSI lockouts, DTE floors. LLMs never touch this layer. | 🟡 |
 | market-state-engine | Intraday regime detector: BULL_TRAP / WATERFALL / V_BOTTOM on SPY 15m data | 🟡 |
 
