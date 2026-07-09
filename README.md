@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/JECI%20OS-Apple%20App%20Store%20for%20AI%20Businesses-1B365D?style=for-the-badge" alt="JECI OS">
+  <img src="https://img.shields.io/badge/BIB%20Marketplace-Business--in--a--Box-D4AF37?style=for-the-badge" alt="BIB Marketplace">
 </p>
 
 # Hi, I'm Adrian 👋
 
 <p align="center">
   🏗️ Financial Systems Architect &nbsp;|&nbsp; 🤖 AI Automation Builder &nbsp;|&nbsp; 🚀 Founder, JECI Group & JECI AI
-</p>
-
-<p align="center">
-  <i>Building the infrastructure behind financial sovereignty — not just content about it.</i>
 </p>
 
 <p align="center">
@@ -28,64 +24,25 @@
 
 ---
 
-## 🏪 The Flagship — JECI OS
+## 🏪 BIB Marketplace
 
-**Most AI agents are tools developers install. JECI OS is the platform that turns AI agents into businesses anyone can install.**
+**Browse, install, and run an AI-powered business — fully staffed, ready on day one.**
 
-At the center is **Agent JECI** — the Chief Intelligence & Orchestration Agent. It's not a chatbot; it's an autonomous Chief of Staff that routes work, holds organizational memory, and coordinates a network of specialized agents across credit, finance, content, and trading.
-
-**BIB Marketplace** is the consumer-facing product that makes those agent teams installable by anyone — browse by category, preview the departments and AI employees who run them, click install, open a workspace. Apple App Store, but the apps are full businesses.
-
-```
-                    ┌──────────────────────┐
-                    │       JECI OS         │
-                    │   (platform layer)    │
-                    └──────────┬───────────┘
-                               │
-              ┌────────────────┴────────────────┐
-              ▼                                  ▼
-     ┌───────────────────┐            ┌───────────────────────┐
-     │     Agent JECI      │            │    BIB Marketplace     │
-     │ Orchestration core  │ ─powers──▶ │  Storefront · Install  │
-     │ Routes & coordinates │            │  · Workspace UI        │
-     └───────────────────┘            └───────────────────────┘
-              │
-   ┌──────────┴───────────┬──────────────┬───────────────┐
-   ▼                       ▼              ▼               ▼
-Credit CluBot      Revenue Forecaster   Financial Stmts   (future agents)
- (Agent Nova)         (in dev)             Agent
-```
-
-| Project | What it is | Access |
-|---|---|---|
-| **Agent JECI** | Chief Intelligence & Orchestration — the brain coordinating every specialized agent below | 🔒 Private |
-| **BIB Marketplace** | Business-in-a-Box storefront — browse, install, and run a fully-staffed AI business | 🔒 Private |
-
-Every other repo on this profile is either a standalone product **or** a future installable listing inside this marketplace.
-
----
-
-### BIB Marketplace — Live Screenshots
+Browse by category, preview the departments and AI employees who run them, click install, open a workspace. No dev tools, no code, no setup. Just find the business, install it, walk in.
 
 ![BIB Marketplace Homepage](screenshots/bib-home.png)
-*"Your next business is already built." — homepage hero with workspace preview*
+*"Your next business is already built."*
 
 ![Browse by Industry](screenshots/bib-industries.png)
-*Industry category grid — Front Desk, Credit & Finance, Marketing, Construction, Real Estate and more*
+*Industry categories — Front Desk, Credit & Finance, Marketing, Construction, Real Estate and more*
 
 ![Marketplace Browse](screenshots/bib-browse.png)
 *11 businesses · 70 departments · 100 employees — ready to install*
 
 ![My Businesses Dashboard](screenshots/bib-my-businesses.png)
-*Installed business portfolio — department and employee summary, system health, recent activity*
+*Installed portfolio — department and employee summary, system health, recent activity*
 
----
-
-## How It Works
-
-**Orchestrator pattern:** Agent JECI is an LLM-driven evaluation loop. It reads incoming work, identifies the domain, delegates to the agent built for that domain, reviews the output, and routes the result — no manual handoffs. The agents underneath (credit disputes, revenue forecasting, financial modeling, trading) each run independently and report back up.
-
-**Marketplace model:** Builders list "Offices" on BIB Marketplace — a fully-staffed AI business with named agents per department. Users browse by category, preview the team, install, and walk into a running workspace. Every repo on this profile is a future listing inside that marketplace.
+<p align="center"><i>Powered by Agent JECI</i></p>
 
 ---
 
@@ -181,40 +138,9 @@ Every other repo on this profile is either a standalone product **or** a future 
 
 ---
 
-## What I'm Building
-
-**Real automated financial systems** — not threads about building them. Every repo here is either live in production, in active development, or one deployment away from being live. The JECI stack spans trading bots, credit automation, AP/AR agents, dispute SaaS, and Bitcoin infrastructure — all connected under a single multi-venture operating model.
-
-**The endgame is JECI OS.** Agent JECI orchestrates. BIB Marketplace distributes. Every specialized agent — credit, finance, content, trading — is built twice: once to work inside the system, and once to stand alone as something a stranger can install. Apple made an app store. This is a business store.
-
-The 100-Year FLP isn't a metaphor. It's a legal + financial architecture I'm building for my family the same way you'd build software: iteratively, with version control, and a 100-year runway.
-
----
-
-## Content
-
-📱 **TikTok / Reels** — Acquisition breakdowns, TA watchlists, and AI system walkthroughs for people building real financial leverage
-
-📊 **Weekly Watchlists** — Magnificent 7, $MSTR, $LLY, $NFLX, $CRWV, $CBRS — charted, not just mentioned
-
-✍️ **Substack** — Long-form on running real financial systems as a solo operator
-
-🐦 **X** — Contrarian takes, JECI build updates, Bitcoin node logs
-
----
-
-## Legacy Work
-
-- 🤖 **JECI AI** — Making AI personal and client-facing
-- 🌿 **700HODL DAO** — Bitcoin Hodl & Invest template for group investors
-- 🚪 **JECI Real Estate DAO** — Wyoming LLC wrapped DAO with Cayman loop for REI
-- 📄 **BA Accounting** — Gardner-Webb University · In Bitcoin since 2016
-
----
-
 ## Connect
 
-[X / Twitter](https://x.com/AdrianJordan) · [Instagram](https://instagram.com/adrianjordan.io) · [TikTok](https://tiktok.com/@BitcoinAdrian) · [Substack](https://substack.com/@adrianjordanio) · [LinkedIn](https://linkedin.com/in/adrianjordan)
+[X / Twitter](https://x.com/AdrianJordan) · [Instagram](https://instagram.com/adrianjordan.io) · [TikTok](https://tiktok.com/@BitcoinAdrian) · [Substack](https://substack.com/@adrianjordanio) · [LinkedIn](https://linkedin.com/in/adrianjordan) · [JECI Group](https://jecigroup.com)
 
 ---
 
